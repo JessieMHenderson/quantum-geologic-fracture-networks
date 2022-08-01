@@ -1,10 +1,12 @@
 # Quantum Algorithms for Flow in Geologic Fracture Networks
-### Last Updated: July 4, 2022
-### Corresponding Author:
+### Last Updated: August 1, 2022
+### Corresponding Author: Jessie M. Henderson, jessieh@lanl.gov
 
-This repository contains code and data described in the paper, Quantum Algorithms for Flow in Geologic Fracture Networks.  The code was authored and the data was collected by Jessie M. Henderson and Mariana Podzorova.
+## Authors and Description
 
-### Dependencies
+This repository contains code and data described in the paper, Quantum Algorithms for Flow in Geologic Fracture Networks.  The code was authored and the data was collected by Jessie M. Henderson and Mariana Podzorova.  The code was developed and tested under the guidance of Marco Cerezo.
+
+## Dependencies
 Use of this codebase requires at least Python 3.0 and use of the following modules:
 - Argparse
 - Math
@@ -16,10 +18,16 @@ Use of this codebase requires at least Python 3.0 and use of the following modul
 - Scipy
 - Seaborn
 
-### Documentation
+## Documentation
 Our goal was to include enough documentation within the code such that it's usable without additional documentation.  Should you have any questions or seek further documentation, please contact the corresponding author.
 
-### Brief Description of Contents
+## Brief Description of Contents
 1. Uniform Permeability with 6x8 Regions: This code and data is described in both Section III of the main text, and Section V.B.3 of the Methods.
 2. Uniform Permeability with Larger Regions: This code and data is described in both Section III of the main text, and Section V.B.4 of the Methods.
 3. Preliminary Results with Varying Permeability: This code and data is described in Section VI.C of the Supplementary Information.
+
+## License
+
+quantum-geologic-fracture-networks is provided under a BSD-ish license with a "modifications must be indicated" clause. See LICENSE.md file for the full text.
+
+This package is part of the Hybrid Quantum-Classical Computing suite, known internally as LA-CC-16-032.
