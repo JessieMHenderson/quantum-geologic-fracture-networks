@@ -1,5 +1,5 @@
-# Quantum Algorithms for Flow in Geologic Fracture Networks
-### Last Updated: August 1, 2022
+# Quantum Algorithms for Geologic Fracture Networks
+### Last Updated: August 11, 2022
 ### Corresponding Author: Jessie M. Henderson, jessieh@lanl.gov
 
 ## Authors and Description
