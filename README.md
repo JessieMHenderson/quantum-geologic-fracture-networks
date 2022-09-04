@@ -22,6 +22,11 @@ For each package except Qiskit, any version compatible with Python 3.0 is likely
 
 The code was developed and tested using Windows 10 and has not been tested using other operating systems.
 
+## Installation Instructions
+1. Install Python 3.0.
+2. Use the 'pip' installer to install each of the above packages and any dependencies requested. (For example, Matplotlib may require installing Pylatexenc, if that is not already available on your machine.
+3. Download the scripts in this repository, which can be run straightforwardly using the standard 'python' command.
+
 ## Documentation
 Our goal was to include enough documentation within the code such that it's usable without additional documentation.  Should you have any questions or seek further documentation, please contact the corresponding author.
 
