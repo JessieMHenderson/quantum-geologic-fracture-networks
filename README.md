@@ -17,6 +17,7 @@ Use of this codebase requires at least Python 3.0 and use of the following modul
 - Qiskit
 - Scipy
 - Seaborn
+
 For each package except Qiskit, any version compatible with Python 3.0 is likely acceptable.  This code was originally developed with a now-outdated version (0.26) of Qiksit, and there have been some changes in recent versions that may cause minor, easily-addressed syntax errors. To the developers' knowledge, those issues have been resolved in the most recent version of the code, but should any have been missed, please don't hestitate to contact the corresponding author (JessieH@lanl.gov).
 
 ## Documentation
