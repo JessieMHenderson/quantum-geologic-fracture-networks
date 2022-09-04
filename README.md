@@ -6,7 +6,7 @@
 
 This repository contains code and data described in the paper, Quantum Algorithms for Flow in Geologic Fracture Networks.  The code was authored and the data was collected by Jessie M. Henderson and Mariana Podzorova.  The code was developed and results analyzed under the guidance of Marco Cerezo.
 
-## Dependencies
+## Dependencies and Operating System
 Use of this codebase requires at least Python 3.0 and use of the following modules:
 - Argparse
 - Math
@@ -19,6 +19,8 @@ Use of this codebase requires at least Python 3.0 and use of the following modul
 - Seaborn
 
 For each package except Qiskit, any version compatible with Python 3.0 is likely acceptable.  This code was originally developed with a now-outdated version (0.26) of Qiksit, and there have been some changes in recent versions that may cause minor, easily-addressed syntax errors. To the developers' knowledge, those issues have been resolved in the most recent version of the code, but should any have been missed, please don't hestitate to contact the corresponding author (JessieH@lanl.gov).
+
+The code was developed and tested using Windows 10 and has not been tested using other operating systems.
 
 ## Documentation
 Our goal was to include enough documentation within the code such that it's usable without additional documentation.  Should you have any questions or seek further documentation, please contact the corresponding author.
