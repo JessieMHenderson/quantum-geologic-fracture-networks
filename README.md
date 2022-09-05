@@ -4,7 +4,7 @@
 
 ## Authors and Description
 
-This repository contains code and data described in the paper, Quantum Algorithms for Geologic Fracture Networks.  The code was authored and the data was collected by Jessie M. Henderson and Mariana Podzorova.  The code was developed and results analyzed under the guidance of Hari S. Viswanathan, Daniel O'Malley, and Marco Cerezo.
+This repository contains code and data described in the paper, Quantum Algorithms for Geologic Fracture Networks.  The code was authored and the data was collected by Jessie M. Henderson and Marianna Podzorova.  The code was developed and results analyzed under the guidance of Hari S. Viswanathan, Daniel O'Malley, and Marco Cerezo.
 
 ## Dependencies and Operating System
 Use of this codebase requires at least Python 3.0 and use of the following modules:
