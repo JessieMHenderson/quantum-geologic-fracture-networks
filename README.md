@@ -1,6 +1,6 @@
 # Quantum Algorithms for Geologic Fracture Networks
 ### Last Updated: 5 September 2022
-### Corresponding Author: Jessie M. Henderson, jessieh@lanl.gov
+### Corresponding Author: Jessie M. Henderson, JessieH@lanl.gov
 
 ## Authors and Description
 
