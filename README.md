@@ -1,5 +1,5 @@
 # Quantum Algorithms for Geologic Fracture Networks
-### Last Updated: 4 September 2022
+### Last Updated: 5 September 2022
 ### Corresponding Author: Jessie M. Henderson, jessieh@lanl.gov
 
 ## Authors and Description
@@ -33,9 +33,9 @@ The only time-consuming part of the installation can be downloading the dependen
 Our goal was to include enough documentation within the code such that it's usable without additional documentation.  Should you have any questions or seek further documentation, please contact the corresponding author.
 
 ## Brief Description of Contents
-1. Uniform Permeability with 6x8 Regions: This code and data is described in both Section III of the main text, and Section V.B.3 of the Methods.
-2. Uniform Permeability with Larger Regions: This code and data is described in both Section III of the main text, and Section V.B.4 of the Methods.
-3. Preliminary Results with Varying Permeability: This code and data is described in Section VI.C of the Supplementary Information.
+1. Uniform Permeability with 6x8 Regions: This code and data is described in both Section II.B.1 of the main text, and Section IV.B of the Methods.
+2. Uniform Permeability with Larger Regions: This code and data is described in both Section II.B.2 of the main text, and Section IV.B of the Methods.
+3. Preliminary Results with Varying Permeability: This code and data is described in Section IX.C of the Supplementary Information.
 
 ## License
 
