@@ -24,8 +24,8 @@ The code was developed and tested using Windows 10 and has not been tested using
 
 ## Installation Instructions
 1. Install Python 3.0.
-2. Use the 'pip' installer to install each of the above packages and any dependencies requested. (For example, Matplotlib may require installing Pylatexenc, if that is not already available on your machine.
-3. Download the scripts in this repository, which can be run straightforwardly using the standard 'python' command.
+2. Use the 'pip' installer to install each of the above packages and any dependencies requested. (For example, Matplotlib may require installing Pylatexenc, if that is not already available on your machine.)
+3. Download the scripts in this repository, which can be run using the 'python' command.
 
 The only time-consuming part of the installation can be downloading the dependencies, which should take only about twenty minutes with a 'standard' internet connection.
 
